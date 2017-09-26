@@ -1,5 +1,6 @@
 import webbrowser
 
+
 class Movie():
     """Initalize a movie class with title, image, and youtube trailer URL
      Example:
